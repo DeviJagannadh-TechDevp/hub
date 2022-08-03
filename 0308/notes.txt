@@ -1,0 +1,166 @@
+Our mission — to empower every person and organization on the planet to achieve more is not just a set of words. It’s our North Star for everything we do, every product choice we make, and the decisions we make as a company and as individuals. 
+
+When we talk about empowering people, we simply mean that with the right tools, anyone can become, and achieve, anything. 
+
+When we say, “on the planet”, we’re acknowledging that our mission is not bound by our location in Redmond, Washington, or the USA, or even in the western hemisphere. At Microsoft, we aim to empower every person and every organization ON THE PLANET.
+
+life long learner
+
+core and what fules us
+
+“The only way to achieve our mission is by living our culture.” —Satya Nadella
+
+Our culture is built on a foundation of growth mindset. This means we believe that anyone can change, learn and grow and that potential is nurtured and not pre-determined. We strive to always be learning and curious, to try things and not be afraid to fail. When we apply a growth mindset to our customers, we seek their feedback to understand and anticipate their needs. 
+
+How we create impact
+
+Growth Mindset 
+Customer obsessed  
+Diverse & Inclusive   -- we just dont value diffrences, we try to embibe to get bestter ideas, better products, better satisfaction of customers
+One Microsoft  
+Making a difference
+
+Growth Mindset: Sometimes the best way to contribute is to make space for others to speak.
+Customer obsessed: The most important part of our job is to develop a deep and intimate understanding of the people we serve.
+Diverse and Inclusive: We will better serve everyone on the planet by representing everyone on the planet. 
+One Microsoft: We collaborate across boundaries to bring the best of Microsoft to our customers as one. 
+Marking a difference: We all have the opportunity to make a real difference in the lives of our employees, customers and the world around us.
+
+Growth mindset – A passion to learn and bring our best everyday to make a bigger different to the world.
+
+· Customer obsessed – Putting the customer at the center of what we do.
+
+· Diverse & inclusive – A cultural responsibility, an economic opportunity to respect and appreciate everyone’s perspective.
+
+· One Microsoft – Becoming One Microsoft isn’t the beginning, nor is it the end. It’s something we should be moving toward every single day.
+
+· Making a difference - In some ways, the concept of “making a difference” is the most difficult aspect of our culture to define because, unlike the others, it feels less concrete and more philosophical: Why are we here? What is our ultimate purpose? What does it all mean?
+
+
+our values
+
+Respect: We recognize that the thoughts, feelings, and backgrounds of others are as important as our own. 
+
+Integrity: We are honest, ethical, and trustworthy. 
+
+Accountability: We accept full responsibility for our decisions, actions, and results.
+
+The CXF 
+
+Empower me
+Help me
+Advise me
+
+cust exp beh.
+
+CARE
+e-capacity to understand cust (empathy)
+c-active listing, (comm. eff.)
+A-take ownership, and help acctutablllly
+r- ask for hrlp, colab,docs
+
+
+cust success is our measure of sucess
+
+comm. techniques - notes
+
+professional skills are:
+
+• Teamwork/Collaboration
+
+• Communication
+
+• Planning & Organizing
+
+• Documenting
+
+cbcf - tools resources skills building
+
+see all cultures - gloabsmart
+
+Delighting customers and consistently exceeding their expectations in every interaction through a connected customer experience. - stragy to exceeding cust exp.
+
+The customer is at the center of everything we do and our role in CSS is to deliver value to the customer and bring our Microsoft mission to life.
+
+Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference.
+
+open ended questions
+
+Open-ended question. An open-ended question is a question that cannot be answered with a "yes" or "no" response, or with a static response. Open-ended questions are phrased as a statement which requires a response. The response can be compared to information that is already known to the questioner.
+
+FQR is a required behavior which delivers a focused, prepared, and thoughtful first contact to the customer after case assignment. The goals of FQR is to start the case on a positive note and get the case moving with the right momentum to issue resolution. It can be delivered as a phone call followed up by an email or just an email.
+
+
+A good FQR:
+
+Advances the issue toward resolution. Minimize the customer's effort to resolve the problem.
+
+Demonstrates empathy, showing you're deeply listening to the customer. Communicate in a human, personal way; avoid sounding robotic.
+
+Matches the customer's sense of urgency. If it is not clear, ask the customer.
+
+Clearly defines scope. Ensure the customer's issue and expectations are correctly understood.
+
+Minimizes transfers before contacting the customer.
+
+Responds within the initial response goal (SLA).
+
+Shows leadership with the customer by describing our plan to resolve the problem, and get the customer's alignment, before proceeding.
+
+3 ps in FQR = prepare, personalise, progreess
+
+scoping
+
+Scoping is a contract that binds the engineer and the customer on an agreement.  By accepting the scope, the customer accepts that the engineer has understood the issue and the engineer admits to solve the issue as per Microsoft's commitment and will continue with the troubleshooting steps.
+
+Advisory case
+An advisory case typically requires a general tutorial with an end goal of educating a customer, not resolving a specific issue. Advisory cases provide proactive support.
+
+Reactive case
+A reactive case requires defining a specific problem to address. Reactive cases are considered “break-fix”.
+
+A scope is made of these main components: business impact, issue definition, scope agreement and additional relevant information.
+
+What is scope creep?
+•	Scope creep occurs when the customer asks you to troubleshoot some issue which might be outside Microsoft support boundaries 
+
+Every interaction you have with the customer via phone, IM or email needs to include next steps and the timeline.
+
+Case documentation encapsulates all aspects of customer support information that is captured by the support engineer in the support case.
+
+Collaboration is typically 1:1, while Swarming can be 1: many (especially if multiple technologies are involved in a customer’s issue).
+
+Swarming is a behavior, not a tool or procedure, that improves both your and the customers’ experience.
+
+Standard workflows are engineer best practices combined with a standardized approach that delivers a consistent solution. Standard Workflows helps you solve technical issues and are specific to technology/product.
+
+System Down - Customer Response Portal 
+
+Standard workflows are engineer best practices combined with a standardized approach that delivers a consistent solution. Standard workflows are hosted on CSS Wiki
+
+Solution Validation Steps:
+1.	Send solution by email
+2.	Update case status
+3.	Validate the solution with customer
+4.	Document the solution
+
+
+If they request to monitor the incident for a prolonged period after their initial issue is mitigated:
+
+For Premier/Unified customers, consult the Incident Manager (IM) in setting customer expectations.
+
+For Advanced Support for Partners (ASfP), consult the Support Account Manager (SAM) in setting customer expectations.
+
+For Broad Commercial customers, discuss with your Manager.
+
+Notify their Customer Success Account Manager (CSAM) and provide the reason why they may decide to give a whole or partial refund, or non-decrement.
+
+
+Last Quality Response (LQR) is a critical element of Case Closure that delivers a meaningful and consistent case closure experience with customers. It ensures all the necessary elements needed to conclude interaction with the customer is holistic and leaves the customer with feeling of resolution
+
+resolution codes. ??????
+
+
+
+
+
